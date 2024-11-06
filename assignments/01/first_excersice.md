@@ -19,3 +19,5 @@
 ## Add a quote (about data science or sth. more general) that inspires you.
 > "The goal is to turn data into information, and information into insight."  
 > — *Carly Fiorina*
+
+print('Hello World')
