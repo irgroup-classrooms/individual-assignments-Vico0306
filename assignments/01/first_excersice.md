@@ -15,3 +15,7 @@
 | **Tabelle**            | `| Spalte 1 | Spalte 2 |`<br>`|-----------|-----------|`<br>`| Wert 1   | Wert 2   |` | Siehe Beispiel hier | Erstellt eine Tabelle wie diese hier     |
 | **Checkbox**           | `- [ ] Aufgabe`<br>`- [x] Erledigt`         | `- [ ] Offene Aufgabe`<br>`- [x] Erledigt` | - [ ] Offene Aufgabe<br>- [x] Erledigt |
 | **Fußnoten**           | `Text [^1]`<br>`[^1]: Fußnotentext`         | `Beispieltext [^1]`<br>`[^1]: Erklärung` | Erstellt eine Fußnote                         |
+
+## Add a quote (about data science or sth. more general) that inspires you.
+> "The goal is to turn data into information, and information into insight."  
+> — *Carly Fiorina*
