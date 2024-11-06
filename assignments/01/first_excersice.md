@@ -20,4 +20,5 @@
 > "The goal is to turn data into information, and information into insight."  
 > — *Carly Fiorina*
 
+## Add verbatim code. With a code snippet that is already familiar to you. Alternatively, write Python code that prints "Hello World!".
 print('Hello World')
