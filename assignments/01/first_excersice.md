@@ -22,3 +22,5 @@
 
 ## Add verbatim code. With a code snippet that is already familiar to you. Alternatively, write Python code that prints "Hello World!".
 print('Hello World')
+
+## Add three other markdown-formatted contents. Also insert headings with appropriate levels.
